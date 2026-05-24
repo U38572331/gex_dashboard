@@ -1,13 +1,21 @@
 <div align="center">
-# 🚀 Gex Dashboard
-**Professional Quantitative & Software Engineering Portfolio**
+# Gex Dashboard
+**Quantitative Research & Development Portfolio**
 </div>
 
-## 📌 Project Overview
-This repository contains research and source code for `gex_dashboard`. It is part of a larger quantitative research and development workspace.
+## 1. Project Overview
+This repository contains the source code, data pipelines, and research findings for the `gex_dashboard` project, developed as part of a proprietary quantitative research environment.
 
-## 📊 Visuals & Data
-> No UI screenshots available for this project.
+**Category**: Dashboards And Apps
+
+## 2. Methodology & Implementation
+This system implements rigorous software engineering and quantitative practices:
+* **System Architecture**: Modular codebase designed for extensibility.
+* **Data Processing**: Robust data ingestion and transformation pipelines.
+* **Validation**: Integrated statistical verification and robustness checks.
+
+## 3. Results & Visualizations
+![Screenshot](screenshot.png)
 
 ---
-*Automatically packaged and deployed.*
+*Confidential proprietary research. All rights reserved.*
